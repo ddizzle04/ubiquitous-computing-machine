@@ -1,0 +1,14 @@
+//
+// Created by Luke Stewart on 9/2/22.
+//
+
+#ifndef UBIQUITOUS_COMPUTING_MACHINE_FILE_H
+#define UBIQUITOUS_COMPUTING_MACHINE_FILE_H
+
+
+class file {
+
+};
+
+
+#endif //UBIQUITOUS_COMPUTING_MACHINE_FILE_H
